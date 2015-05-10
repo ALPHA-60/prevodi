@@ -48,7 +48,7 @@ akademskoj delatnosti iz finansijske perspektive. Prvi razlog je to
 razlozima škodljiva: to stvara etiku bestseler društva u kojem se
 sposobnost da se proda brka sa kvalitetom. Nedavno smo raspravljali o
 profesionalnom kvalitetu jednog našeg kolege, u čiju korist je
-pomenuto da je jedan od njegovih doktorskih studenata zaradio puno
+pomenuto da je jedan od njegovih doktoranata zaradio puno
 novca u kompjuterskom biznisu, i delovalo je da malo ko primećuje
 koliko je takva preporuka bila besmislena.  Znamo i da finansijski
 uspeh proizvoda može biti potpuno nezavisan od njegovog kvaliteta
@@ -80,7 +80,7 @@ je između: oko 4 za prosečnog političara koji se trudi da bude
 ponovo izabran, nešto veći za većinu industrija, ali puno manji za
 menadžere koji moraju da pišu tromesečne izveštaje. Bakstonov indeks
 je važan pojam jer bliska saradnja između entiteta sa vrlo različitim
-Bakstonovim indeksima bez izuzetka propada i vodi moralnim
+Bakstonovim indeksima bez izuzetka ne uspeva i vodi moralnim
 pritužbama na ortaka. Strana sa manjim Bakstonovim indeksom se
 optužuje za površnost i kratkovidost, dok strana sa većim Bakstonovim
 indeksom biva optužena za zanemarivanje dužnosti, za bežanje od
@@ -108,7 +108,7 @@ ili, pozitivnije rečeno, otvorenost i poštenje u srži akademske
 delatnosti: univerzitet koji se krije ili vara može da stavi katanac.
 Treba se setiti suštinske uloge otvorenosti kada se razmatra saradnja
 između akademije i industrije; trebalo bi je se setiti i uvek kada
-vlada izmišlja razloge državne sigurnosti ili blagostanja da bi
+vlada izmišlja razloge državne bezbednosti ili blagostanja da bi
 sprečila slobodno objavljivanje akademskih istraživanja.  Univerziteti
 nisu deo bezbednosnih službi države, niti su njene istraživačke
 laboratorije: oni su njeni univerziteti.
@@ -118,26 +118,25 @@ otvorenost preduslov akademskog opstanka. Samo zbog toga što su
 bili drugačiji i što su radili stvari koje neškolovani nisu mogli
 da razumeju, akademike su mrzeli i plašili su ih se, Sokrata,
 pogubljenog 399. pre n. e., Arhimeda, ubijenog 212. pre n. e., i,
-skorije, Hipatije, 415. n. e., svirepo ubijenog od strane hrišćanske
-rulje.  Prvobitni oksfordski koledži bili su utvrđeni da bi zaštitili
-studente od svetine, i ako mislite da je to nešto prastaro,
-pogledajte DDR ili Narodnu Republiku Kinu pre samo 25 godina. Čudo
-je da se, u ovo vreme, akademski svet uopšte i toleriše; lično sam
-ubeđen da bi tolerancije sasvim nestalo kada bi akademski svet
-postao tajnovit.
+skorije, Hipatije, 415. n. e., koju je rastrgla rulja hrišćana.
+Prvobitni oksfordski koledži bili su utvrđeni da bi zaštitili
+studente od svetine, i ako mislite da je to nešto prastaro, pogledajte
+DDR ili Narodnu Republiku Kinu pre samo 25 godina. Čudo je da se,
+u ovo vreme, akademski svet uopšte i toleriše; lično sam ubeđen da
+bi tolerancije sasvim nestalo kada bi akademski svet postao tajnovit.
 
 '''
 
 Univerzitet sa svojim intelektualnim životom na fakultetu je bez
 sumnje tvorevina nemirnog duha, ali je i nešto više od njegove
 tvorevine: on je i njegovo utočište. Na nesreću, nisu ni svi profesori
-ni svi studenti briljantni, ali puno njih jesu, i jedinstvena stvar
+ni svi studenti briljantni, ali mnogi jesu, i jedinstvena stvar
 je to što je, na univerzitetu, biti briljantan društeno prihvatljivo.
 Takođe, tkanje akademskog sveta je takvo da može da upije
 najrevolucionarnije ideje.  A koliko je takvo utočište od suštinske
 važnosti shvatimo kada se prisetimo da mnoge organizacije nameću
 konformizam koji ne dopušta čak i takvo nastrano ponašanje kao što
-je nošenja brkova! (Ako ste se ikada pitali zašto se nisam pridružio
+je nošenje brkova! (Ako ste se ikada pitali zašto se nisam pridružio
 Diznilendu ili IBM-u, sada znate.)
 
 
@@ -147,7 +146,7 @@ načinili pustoš ako bi se oslobodili. Drugim rečima: ograda oko
 univerziteta je neophodna jer razdvaja dva sveta koja bi u suprotnom
 naudila jedan drugom. Ograda jamči da imamo relativno malo uticaja na
 svet ``izvan'', ali bi bilo neozbiljno od nas da se žalimo, jer je se
-naša sloboda da budemo naročiti i radikalani koliko hoćemo zasniva na
+naša sloboda da budemo naročiti i radikalni koliko hoćemo zasniva na
 činjenici da se industrija i široka javnost i onako ne obaziru na naš
 rad.  Trenutno širom sveta postoji težnja da se ograda spusti; pokušaj
 mi deluje loše usmereno.
@@ -218,7 +217,7 @@ podržati velike utvrđene organizacije nego pojedinačne istraživače,
 jer podržavanje ovih drugih, iako je puno jeftinije, smatraju
 rizičnijim; ono zahteva i više razmišljanja po dolaru finansiranja.
 Timski rad se podstiče i zato što bi trebalo da je efikasniji, ali
-je u ova nada u opštem slučaju neopravdana. Nemam iskustva iz prve
+je ova nada u opštem slučaju neopravdana. Nemam iskustva iz prve
 ruke sa ESPRIT projektom Evropske zajednice jer su počeli sa radom
 nakon što sam ja otišao. Učešće univerziteta iz različitih zemalja
 članica je, verujem, conditio sine qua non, i izgleda da je u ovom
@@ -242,8 +241,7 @@ discipline predstavljaju modularizaciju nauke uvedenu radi efikasnosti.
 Izgleda da saradnja između odgovarajućih odeljenja sa različitih
 univerzita prilično dobro funkcioniše, a saradnja između univerziteta
 i industrije je, međutim, toliko teška da obično ne uspeva. Čak bismo
-mogli zaključiti da je pokušaj beznadežan.
-
+mogli zaključiti da je svaki pokušaj beznadežan.
 
 Za početak, postoji velika razlika u Bakstonovim indeksima. Za
 industriju, Bakstonov indeks je manji od deset, verovatno bliže 4
@@ -255,7 +253,7 @@ jer ono što pružate svojim studentima treba da traje ceo ljudski
 Drugi problem ima veze sa otvorenošću, koja je obeležje univerziteta,
 dok, poput cehova, industrija naginje tome da vidi svoje znanje kao
 poslovnu tajnu.  Ljudi su pokušavali da pronađu pravna rešenja ove
-dileme, ali se bojim da takva rešenja samo dotiču površinu: na
+dileme, ali bojim se da takva rešenja samo dotiču površinu: na
 dubljem nivou, ili jedna od strana ne ispunjava svoju dužnost, ili
 se saradnja urušava.
 
@@ -304,18 +302,18 @@ davno, formalno rezonovanje je smatrano samo za zanimljivu teoretsku
 mogućnost, ali do te mere nepraktičnu, da je bilo potpuno nevažno
 pravim matematičarima. Peana su ismevali zbog svoje aksiomatizacije
 nečega tako trivijalnog kao što je celobrojna aritmetika. Ali upravo
-zbog ovih ``trivijalnosti'' danas možemo raditi moćne i divne stvari,
-stvari o kojima nisam mogao ni sanjati kao mladić.
+su nam te ``trivijalnosti'' omogućile da danas radimo moćne i divne
+stvari, stvari o kojima nisam mogao ni sanjati kao mladić.
 
 
 Kao matematičar osećam istu vrstu uzbuđenja koju su teorijski
 fizičari osećali u prvim decenijama ovog veka. Analogija je podesna
-na više nego jedan način. U oba slučaja rezultati nisu dobijeni
+na više nivoa. U oba slučaja rezultati nisu dobijeni
 istraživanjem u odnosu na zadati cilj, već pokušavanjem da se ostvari
 jedva dostižno.  Ako je akademsko istraživanje često zadivljujuće
 uspešno, to je samo zato što su istraživači imali mudrost i priliku
 da izbegnu i trivijalno i nemoguće, i da hodaju vrlo uzanom stazom
-između. Ta uzana staza definiše intelektualnu autonomiju uspešnog
+između ta dva. Ta uzana staza definiše intelektualnu autonomiju uspešnog
 naučnog istraživanja.
 
 Glavna snaga akademske delatnosti je ta što je u vrlo tehničkom
@@ -343,7 +341,7 @@ ____
 Da li pisac nije znao da se korišćenje pojma ``stvarni svet'' obično
 tumači kao simptom besomučnog antiintelektualizma, ili ga nije bilo
 briga? Nije čudno što se ljudi pitaju da li je Školi za poslovnu
-administraciju opšte mesto na fakultetu.
+administraciju uopšte mesto na fakultetu.
 
 '''
 
