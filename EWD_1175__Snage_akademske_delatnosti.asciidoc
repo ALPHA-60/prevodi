@@ -7,8 +7,8 @@ od 1530. Među tih 66 su Rimokatolička crkva, Luteranska crkva i
 parlamenti Islanda i Ostrva Man. Ono što ovih 66 čini tako zanimljivim
 -- a tu činjenicu znam zahvaljujući našem predsedniku, dr Berdalu --
 je to da su preostale 62 univerziteti! To na upečatljiv način
-pokazuje da univerziteti imaju potencijal za ``dugovečnost'', ali ne
-smemo pogrešno zaključiti da su ``besmrtni'' ili neranjivi, jer nisu:
+pokazuje da univerziteti imaju potencijal za „dugovečnost”, ali ne
+smemo pogrešno zaključiti da su „besmrtni” ili neranjivi, jer nisu:
 ako su postojali vekovima, to je zato što su su ih uzastopne
 generacije naučnika i studenata dobro i predano negovale. Očigledan
 zadatak sadašnje generacije je da narednoj preda ono što je nasledila
@@ -26,7 +26,7 @@ naučnik, inženjer, teoretsko, eksperimentalno i primenjeno. Postao
 sam svestan ovog 1968. na konferenciji u Garmiš-Partenkirhenu. U
 to vreme sam radio na odeljenju za matematiku Tehnološkog univerziteta
 u Ajndhovenu u Holandiji, i na toj konferenciji sam rekao da je
-zvanična titula koju stiču naši diplomci ``matematički inženjer'', i
+zvanična titula koju stiču naši diplomci „matematički inženjer”, i
 većina Amerikanaca je počela da se smeje, jer je za njih to zvučalo
 protivrečno, budući da je matematika prefinjena i nepraktična, a
 inženjerstvo jasno i praktično. Kao još jedan primer, ranih 80-ih
@@ -58,8 +58,8 @@ vrlo mutan pojam, toliko mutan da pokušaji da se nešto razume iz
 finansijske perspektive uvek vode još većoj zbrci.  [Zapamtite ovo,
 jer ćete ovog podneva verovatno imati priliku da opazite fenomen.
 Imajte na umu da novac ne mora biti izričito pomenut da bi isplivale
-besmislice, dovoljno je pozivati se na ``poreskog obveznika''. Uloga
-``poreskog obveznika'' bez izuzetka vodi zaključku da na državnim
+besmislice, dovoljno je pozivati se na „poreskog obveznika”. Uloga
+„poreskog obveznika” bez izuzetka vodi zaključku da na državnim
 univerzitetima barem osnovne studije moraju imati drugorazredni ili
 trećerazredni nastavni program.] Poslednji razlog za moje odbijanje
 je taj što se sklonost obraća kvantitativnom mišljenju a ja dolazim
@@ -145,7 +145,7 @@ On nije samo utočište nemirnih duhova, on je i ograda. Ne samo da
 načinili pustoš ako bi se oslobodili. Drugim rečima: ograda oko
 univerziteta je neophodna jer razdvaja dva sveta koja bi u suprotnom
 naudila jedan drugom. Ograda jamči da imamo relativno malo uticaja na
-svet ``izvan'', ali bi bilo neozbiljno od nas da se žalimo, jer je se
+svet „izvan”, ali bi bilo neozbiljno od nas da se žalimo, jer je se
 naša sloboda da budemo naročiti i radikalni koliko hoćemo zasniva na
 činjenici da se industrija i široka javnost i onako ne obaziru na naš
 rad.  Trenutno širom sveta postoji težnja da se ograda spusti; pokušaj
@@ -190,10 +190,10 @@ vidi.
 
 Drugi razlog je taj što društvo porazno traži šećernu vodicu. Naravno,
 šećerna vodica ima najimpresivnije nazive -- u suprotnom, ne bi se
-prodavala -- kao što su ``strukturirana analiza i dizajn'', ``softversko
-inženjerstvo'', ``modeli zrelosti'', ``informacioni sistemi u  menadžmentu'',
-``integrisana okruženja za podršku projektima'', ``objektna orijentisanost'',
-``reinženjering poslovnih procesa'' (poslednji su poznati kao IPSE,
+prodavala -- kao što su „strukturirana analiza i dizajn”, „softversko
+inženjerstvo”, „modeli zrelosti”, „informacioni sistemi u  menadžmentu”,
+„integrisana okruženja za podršku projektima”, „objektna orijentisanost”,
+„reinženjering poslovnih procesa” (poslednji su poznati kao IPSE,
 OO i BPR). Spoljašnji pritisci da se učini pogrešna stvar su ogromni,
 ali za akademsku delatnost bi bilo kobno da im popusti, dok je
 pružanje otpora pritisku osnažuje. Pritisci su, u stvari, tako snažni,
@@ -205,10 +205,10 @@ Martina, bolje mu je da napravi firmu].
 '''
 
 U osvit kulturne revolucije, a sada i recesije, vidim sve jači
-pritisak da se sarađuje i promoviše ``timski rad''. Zbog svoje
+pritisak da se sarađuje i promoviše „timski rad”. Zbog svoje
 antiindividualističke crte, takva težnja je krajnje sumnjiva; neki
 ljudi možda nisu osetljivi na to, ali ako ste viditeli Hitlerjugend
-na delu, do kraja života ćete zazirati od ``timskog duha''. Čak sam
+na delu, do kraja života ćete zazirati od „timskog duha”. Čak sam
 pročitao jedan članak koji je tvrdio da univerzitetski naučnici
 moraju više sarađivati da bi postali konkurentniji.....  Birokratije
 se zalažu za timski rad jer je lakše kontrolisati mali broj grupa
@@ -259,13 +259,13 @@ se saradnja urušava.
 
 Ali najveće ograničenje koristi od saradnje industrije i akademije
 je skoro izvesno  to što imaju potpuno različite ciljeve. Da citiram
-Harvija Erla iz GM-a: ``Dženeral motors posluje samo zbog jednog
+Harvija Erla iz GM-a: „Dženeral motors posluje samo zbog jednog
 razloga.  Da pravi pare. Zato pravimo kola. A da možemo da pravimo
-pare praveći kante za smeće, pravili bismo kante za smeće.''.  Neki
+pare praveći kante za smeće, pravili bismo kante za smeće.”.  Neki
 bi rekli da su čak pokušali da prave novac praveći smeće. Ali
 proizvod je od drugorazrednog značaja; citiraću Harvija Erla još
-jednom: ``Čujte, nabio bih dimnjake na sred tih prokletinja da
-mislim da ću da prodam još više kola.'' Ovi citati su iz pedesetih,
+jednom: „Čujte, nabio bih dimnjake na sred tih prokletinja da
+mislim da ću da prodam još više kola.” Ovi citati su iz pedesetih,
 ali se stvari nisu puno promenile. Na primer, računarstvo je vrlo
 ubedljivo pokazalo da je jednostavnost nužan uslov pouzdanosti, ali
 industrija svesno komplikuje proizvode da bi ih učinila vlasničkim.
@@ -302,7 +302,7 @@ davno, formalno rezonovanje je smatrano samo za zanimljivu teoretsku
 mogućnost, ali do te mere nepraktičnu, da je bilo potpuno nevažno
 pravim matematičarima. Peana su ismevali zbog svoje aksiomatizacije
 nečega tako trivijalnog kao što je celobrojna aritmetika. Ali upravo
-su nam te ``trivijalnosti'' omogućile da danas radimo moćne i divne
+su nam te „trivijalnosti” omogućile da danas radimo moćne i divne
 stvari, stvari o kojima nisam mogao ni sanjati kao mladić.
 
 
@@ -324,31 +324,31 @@ ni politički ni komercijalni interesi.
 
 Dopustite mi da završim citatom, kao kontrastom, iz C^2^E Izveštaja
 IC^2^ Centra za komercijalizaciju i preduzetništvo sa Univerziteta u
-Teksasu u Ostinu, zime 1993-94. [Obratite pažnju na ``teoriju iz
-učionice'': samo ``teorija'' nije bila dovoljna loša!]
+Teksasu u Ostinu, zime 1993-94. [Obratite pažnju na „teoriju iz
+učionice”: samo „teorija” nije bila dovoljna loša!]
 
 [quote]
 ____
-``Da bismo snabdeli preduzeća rukovodiocima koji su im potrebni u
+„Da bismo snabdeli preduzeća rukovodiocima koji su im potrebni u
 svetu koji se stalno menja, presudno je da univerzitet održava
 neposredne veze sa poslovnom zajednicom. Ove veze studentima pružaju
 iskustvo u stvarnom svetu gde mogu primeniti teoriju iz učionice
 -- pomažu im da budu efikasniji na radnom mestu i da univerzitetu
 pruže povratne informacije koje će osigurati da nastavni program
-odgovara potrebama preduzeća.''
+odgovara potrebama preduzeća.”
 ____
 
-Da li pisac nije znao da se korišćenje izraza ``stvarni svet'' obično
+Da li pisac nije znao da se korišćenje izraza „stvarni svet” obično
 tumači kao simptom besomučnog antiintelektualizma, ili ga nije bilo
 briga? Nije čudno što se ljudi pitaju da li je Školi za poslovnu
 administraciju uopšte mesto na fakultetu.
 
 '''
 
-Gornji članak je napisan za naš ``Industrijski forum'' u ponedeljak,
-7. februara 1994. Citati Harvija Erla su uzeti iz knjige ``Pedesete''
+Gornji članak je napisan za naš „Industrijski forum” u ponedeljak,
+7. februara 1994. Citati Harvija Erla su uzeti iz knjige „Pedesete”
 Dejvida Halberstama (Villard Books, New York, 1993.) Druga preporučena
-literatura je ``Čovek organizacije'' Vilijama H. Vajta (Simon &
+literatura je „Čovek organizacije” Vilijama H. Vajta (Simon &
 Schuster Inc., New York 1956.)
 
 
