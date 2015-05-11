@@ -359,3 +359,7 @@ Odeljenje za računarstvo +
 Univerzitet u Teksasu u Ostinu +
 Ostin, TX 78712-1188 +
 SAD
+
+'''
+
+Originalni tekst na engleskom jeziku: https://www.cs.utexas.edu/users/EWD/ewd11xx/EWD1175.PDF[The strengths of the academic enterprise]
