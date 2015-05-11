@@ -39,8 +39,8 @@ smislu, profesor koji ne crpi vredno nadahnuće iz sopstvenih
 predavanja, i zbog toga ne gleda na podučavanje kao na dragoceno
 iskustvo, naprosto radi pogrešan posao: trebalo bi da predaje u
 zanatskoj školi ili da radi u istraživačkoj laboratoriji. Molim vas
-da imate na umu to da sve važne reči koje koristim mogu značiti
-nešto drugo od onoga na šta se navikli.
+da imate na umu to da sve važne reči koje koristim mogu imati
+drugačije značenje od onog na koje ste navikli.
 
 Moje druga napomena upozorenja je ta da odbijam da raspravljam o
 akademskoj delatnosti iz finansijske perspektive. Prvi razlog je to
@@ -91,7 +91,7 @@ ravni moralnih razmatranja. Važno je imati Bakstonov indeks na umu
 kada se razmišlja o saradnji između akademije i industrije.
 
 
-Moja četvrta i poslednja uvodna napomena tiče se celog spektra
+Moja četvrta i poslednja uvodna napomena tiče se čitavog spektra
 metoda kojima jedna generacija prenosi svoje uvide i umeća sledećoj.
 Na jednom kraju imamo metode cehova koji svoje uvide i umeća vide
 kao dragocenu svojinu, kao blago koje treba čuvati kao tajnu.
@@ -297,7 +297,7 @@ izazova.
 
 Zahvaljujući postojanju računarskih mašina imamo, po prvi put u
 intelektualnoj istoriji čovečanstva, okruženje u kojem opsežna
-primena formalnih metoda postaje izvodljiva i neodphodna. Ne tako
+primena formalnih metoda postaje izvodljiva i neophodna. Ne tako
 davno, formalno rezonovanje je smatrano samo za zanimljivu teoretsku
 mogućnost, ali do te mere nepraktičnu, da je bilo potpuno nevažno
 pravim matematičarima. Peana su ismevali zbog svoje aksiomatizacije
