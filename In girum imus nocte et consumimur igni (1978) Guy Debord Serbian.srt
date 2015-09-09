@@ -72,7 +72,7 @@ Reklamni manipulatori,
 
 17
 00:02:56,340 --> 00:03:01,328
-s drskošću tipičnom za one koji  znaju
+s drskošću tipičnom za one koji znaju
 da ljudi nastoje da opravdaju
 
 18
@@ -418,7 +418,8 @@ spektakl je taj koji ih je porodio
 
 90
 00:07:46,558 --> 00:07:49,582
-i ona sebe vide samo kao usvojenike tih robova.
+i ona sebe vide samo kao
+usvojenike tih robova.
 
 91
 00:07:49,741 --> 00:07:52,629
@@ -687,7 +688,8 @@ sami se služe u supermarketima
 
 147
 00:11:38,188 --> 00:11:41,151
-i po mestima koja su zamenila restorane duž puteva.
+i po mestima koja su zamenila
+restorane duž puteva.
 
 148
 00:11:43,497 --> 00:11:45,892
@@ -752,7 +754,8 @@ osnovu mnogih drugih pokazatelja)
 
 161
 00:12:30,869 --> 00:12:33,893
-u prostoj činjenici da se sistem tiranije
+u prostoj činjenici da
+se sistem tiranije
 
 162
 00:12:34,052 --> 00:12:38,424
@@ -860,7 +863,8 @@ niti možda tako neizlečivi –
 
 184
 00:13:58,550 --> 00:14:02,364
-ako nam ikada uspe da ukinemo klase i državu –
+ako nam ikada uspe da
+ukinemo klase i državu –
 
 185
 00:14:02,795 --> 00:14:07,726
@@ -1497,15 +1501,18 @@ kojima se film obično bavi,
 
 318
 00:23:51,349 --> 00:23:54,537
-zameniću istraživanjem jedne važne teme: sebe.
+zameniću istraživanjem
+jedne važne teme: sebe.
 
 319
 00:24:01,949 --> 00:24:06,618
--Ali, pre nego što umrem, mogu li da vidim ko si ti?
+-Ali, pre nego što umrem,
+mogu li da vidim ko si ti?
 
 320
 00:24:23,968 --> 00:24:26,927
-Ponekad su mi prigovarali – pogrešno, verujem –
+Ponekad su mi prigovarali
+– pogrešno, verujem –
 
 321
 00:24:27,049 --> 00:24:29,093
@@ -1682,7 +1689,8 @@ revolucionisanju života od dna do vrha,
 
 357
 00:27:05,679 --> 00:27:08,148
-pravljenju čistog reza i promeni svega,
+pravljenju čistog reza
+i promeni svega,
 
 358
 00:27:08,420 --> 00:27:14,138
@@ -2144,7 +2152,6 @@ opšteprihvaćene stavove.
 „Ova pećina je soba sa trofejima
 vremena, u koju se niko ne usuđuje da uđe.“
 
-
 455
 00:35:36,580 --> 00:35:37,870
 “Nikada ne radi!“
@@ -2178,7 +2185,6 @@ za moguće posledice.
 00:35:59,500 --> 00:36:06,070
 “Ne razumem značenje tvojih reči, ali
 tvoje vino je moćno: već mi se vrti u glavi.“
-
 
 462
 00:36:10,690 --> 00:36:13,163
@@ -2669,11 +2675,13 @@ nikada nije stekao makar najmanju
 
 568
 00:43:15,190 --> 00:43:19,750
-- Zašto, zar u Crvendaću više nema zabave?
+-Zašto, zar u Crvendaću
+više nema zabave?
 
 569
 00:43:24,580 --> 00:43:26,909
--Oh, gospodine Lasner, ja sam samo mislio...
+-Oh, gospodine Lasner,
+ja sam samo mislio...
 
 570
 00:43:32,030 --> 00:43:36,160
@@ -2818,7 +2826,8 @@ njegov ružan san.
 
 600
 00:45:39,066 --> 00:45:42,698
-Kada danas govorim o tim ljudima, možda će se nekome učiniti da im se podsmevam.
+Kada danas govorim o tim ljudima, možda
+će se nekome učiniti da im se podsmevam.
 
 601
 00:45:42,812 --> 00:45:44,579
@@ -3358,7 +3367,8 @@ naša strana je naginjala
 
 717
 00:54:46,727 --> 00:54:49,948
-statičnoj, čisto defanzivnoj poziciji.
+statičnoj, čisto
+defanzivnoj poziciji.
 
 718
 00:54:50,355 --> 00:54:54,470
@@ -3475,7 +3485,8 @@ onoga koga sam viđao u svim
 
 742
 00:56:46,938 --> 00:56:49,751
-najuzvišenijim trenucima naših avantura –
+najuzvišenijim trenucima
+naših avantura –
 
 743
 00:56:50,147 --> 00:56:54,489
@@ -3499,7 +3510,6 @@ Niko mu nije bio ravan te godine.
 00:57:02,260 --> 00:57:07,338
 „Prilazi tajanstvenom izvoru svetlosti koji dolazi
 s mesta gde ne bi trebalo da živi nijedno ljudsko biće“.
-
 
 748
 00:57:07,779 --> 00:57:12,527
@@ -3759,7 +3769,8 @@ Dolazim iz daleka.
 
 803
 01:02:03,540 --> 01:02:06,200
-Zaboravljen u svojoj zemlji, nepoznat drugde,
+Zaboravljen u svojoj zemlji,
+nepoznat drugde,
 
 804
 01:02:06,846 --> 01:02:08,940
@@ -3827,7 +3838,8 @@ I ne žale se zbog toga,
 
 818
 01:03:00,926 --> 01:03:03,803
-jer znaju da je taj gospodar još suroviji
+jer znaju da je taj
+gospodar još suroviji
 
 819
 01:03:04,066 --> 01:03:05,923
@@ -5086,7 +5098,8 @@ Jedino što mi je važno jeste ono
 
 1090
 01:24:41,031 --> 01:24:43,692
-i što nisam mogao da nađem nigde drugde.
+i što nisam mogao da
+nađem nigde drugde.
 
 1091
 01:24:49,079 --> 01:24:53,651
@@ -5259,7 +5272,8 @@ ludila nije zalupila za njima.
 
 1129
 01:28:24,524 --> 01:28:32,624
-# Tužna, izgubljena deco, mi lutamo kroz noć.
+# Tužna, izgubljena deco,
+mi lutamo kroz noć.
 
 1130
 01:28:32,880 --> 01:28:36,670
@@ -5661,12 +5675,10 @@ Neću se opametiti.
 01:34:55,540 --> 01:35:01,936
 PROĆI JOŠ JEDNOM, IZ POČETKA.
 
-
 1217
 01:35:03,017 --> 01:35:07,589
 Prevod: Aleksa Golijanin
 Obrada: Bojan Petrović,
 prema titlovima hellboytr-a
 i Dušana Rakovića
-
 
